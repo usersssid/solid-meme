@@ -1,0 +1,10 @@
+body{
+    background-image:url("background.gif");
+    background-size:cover;
+   
+}
+canvas{
+    border:5px groove red;
+    margin-top:100px;
+    border-radius:20px;
+}
